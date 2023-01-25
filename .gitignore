@@ -1,0 +1,7 @@
+node_modules
+.DS_*
+
+# Python
+.idea
+__pycache__/
+.env
