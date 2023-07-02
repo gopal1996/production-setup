@@ -1,3 +1,6 @@
 import React from "react";
+import { DatePicker } from "antd";
 
-export const App = () => <h1>Hello React</h1>;
+import "./style.css";
+
+export const App = () => <DatePicker />;
